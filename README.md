@@ -1,2 +1,2 @@
 # VHDL-exercise
-test code
+Test code for VHDL simulator ModelSim-Intel FPGA Edition.
